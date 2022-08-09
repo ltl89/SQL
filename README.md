@@ -1,1 +1,1 @@
-# SQL like Syste
+# SQL like System
